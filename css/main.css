@@ -1,6 +1,6 @@
 :root {
-  --body-bg-color: #fff;
-  --content-bg-color: #fff;
+  --body-bg-color: #3b3635;
+  --content-bg-color: #3b3635;
   --card-bg-color: #f5f5f5;
   --text-color: #555;
   --blockquote-color: #666;
@@ -1196,7 +1196,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #1128d9;
+  background: #749ad2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
